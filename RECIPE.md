@@ -5,7 +5,7 @@ format = "recipkg/1"
 
 [package]
 name = "librechat"
-version = "0.1.1"
+version = "0.1.2"
 kind = "software"
 description = "多模型聊天和 Agent 管理平台重建配方草案。"
 entry = "BUILD_PROMPT.md"
