@@ -2,7 +2,7 @@
 
 **多模型聊天与 Agent 管理：提炼会话、消息和服务端接口。**
 
-[标准库](https://github.com/recipkg/standard-library) · [配方清单](RECIPE.md) · [构建要求](BUILD_PROMPT.md) · [Agent 管理](AGENT-MANAGEMENT-SOURCE.md) · [验收条件](ACCEPTANCE.md) · [来源与覆盖](COVERAGE.md)
+[标准库](https://github.com/recipkg/standard-library) · [配方清单](RECIPE.md) · [构建要求](BUILD_PROMPT.md) · [Agent 管理](AGENT-MANAGEMENT-SOURCE.md) · [验收条件](ACCEPTANCE.md) · [来源](SOURCES.md) · [来源与覆盖](COVERAGE.md)
 
 ![从软件与依赖整理配方，再交给 Agent 重建](https://raw.githubusercontent.com/recipkg/recipkg/main/assets/recipkg-cover.png)
 
